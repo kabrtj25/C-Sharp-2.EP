@@ -1,1 +1,1 @@
-# C-Sharp-2.EP
+Projekty: Kámen nůžky, oběšenec, papoušek a piškvorky
