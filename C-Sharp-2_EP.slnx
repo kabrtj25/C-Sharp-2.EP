@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Papousek/Papousek.csproj" />
+  <Project Path="KamenNuzkyPapir/KamenNuzkyPapir.csproj" />
+  <Project Path="Piskvorky/Piskvorky.csproj" />
+  <Project Path="Sibenice/Sibenice.csproj" />
+  <Project Path="VolnaDisciplina/VolnaDisciplina.csproj" />
+</Solution>

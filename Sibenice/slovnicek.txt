@@ -1,0 +1,10 @@
+program
+klávesnice
+monitor
+šibenice
+papoušek
+proměnná
+cyklus
+podmínka
+piškvorky
+repozitář
